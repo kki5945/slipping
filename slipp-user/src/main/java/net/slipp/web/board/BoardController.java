@@ -1,7 +1,5 @@
 package net.slipp.web.board;
 
-//import java.util.List;
-
 import net.slipp.domain.board.Board;
 import net.slipp.service.board.BoardService;
 import net.slipp.web.user.UserController;
